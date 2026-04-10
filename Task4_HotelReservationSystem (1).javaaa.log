@@ -1,0 +1,38 @@
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task4_HotelReservationSystem-1.java && java Task4_HotelReservationSystem-1
+Task4_HotelReservationSystem-1.java:5: error: class Task4_HotelReservationSystem is public, should be declared in a file named Task4_HotelReservationSystem.java
+public class Task4_HotelReservationSystem {
+       ^
+1 error
+
+[Done] exited with code=1 in 13.636 seconds
+
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task4_HotelReservationSystem-1.java && java Task4_HotelReservationSystem-1
+Task4_HotelReservationSystem-1.java:5: error: class Task4_HotelReservationSystem is public, should be declared in a file named Task4_HotelReservationSystem.java
+public class Task4_HotelReservationSystem {
+       ^
+1 error
+
+[Done] exited with code=1 in 3.046 seconds
+
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task4_HotelReservationSystem-1.java && java Task4_HotelReservationSystem-1
+Task4_HotelReservationSystem-1.java:5: error: class Task4_HotelReservationSystem is public, should be declared in a file named Task4_HotelReservationSystem.java
+public class Task4_HotelReservationSystem {
+       ^
+1 error
+
+[Done] exited with code=1 in 3.486 seconds
+
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task4_HotelReservationSystem.java && java Task4_HotelReservationSystem
+????????????????????????????????????????????
+?    AlphaHotel � Reservation System       ?
+????????????????????????????????????????????
+
+?????????????? MENU ??????????????
+ 1. View All Rooms
+ 2. Search Available Rooms
+ 3. Make a Booking
+ 4. View Booking Details
+ 5. Cancel Booking
+ 6. View All Bookings
+ 7. Exit
+Choice: 

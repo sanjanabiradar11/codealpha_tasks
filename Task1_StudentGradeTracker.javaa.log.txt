@@ -1,0 +1,26 @@
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task1_StudentGradeTracker (1).java && java Task1_StudentGradeTracker (1)
+error: file not found: (1).java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+[Done] exited with code=2 in 0.993 seconds
+
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task1_StudentGradeTracker (1).java && java Task1_StudentGradeTracker (1)
+error: file not found: (1).java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+[Done] exited with code=2 in 0.779 seconds
+
+[Running] cd "c:\Users\welcome\Downloads\" && javac Task1_StudentGradeTracker.java && java Task1_StudentGradeTracker
+========================================
+       STUDENT GRADE TRACKER            
+========================================
+
+--- MENU ---
+1. Add Student
+2. View All Students
+3. Show Summary Report
+4. Search Student
+5. Exit
+Choose option: 
